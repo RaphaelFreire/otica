@@ -1,0 +1,34 @@
+{
+  "stores": [
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Olímpia"
+      },
+      "location": {
+        "city": "Olímpia",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=552217800861"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Taquaritinga"
+      },
+      "location": {
+        "city": "Taquaritinga",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=552217800862"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Americana"
+      },
+      "location": {
+        "city": "Americana",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=552217800863"
+    }
+  ]
+}
