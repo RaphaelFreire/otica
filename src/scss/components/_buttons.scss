@@ -41,13 +41,23 @@
 }
 
 .button-primary {
-    background: color(primary, 1);
+    background: color(bg, 4);
 
     &:hover {
-        background: darken(color(primary, 1), 2%);
+        background: color(bg, 5);
     }
 }
 
 .button-block {
     display: flex;
+	margin-top: 20px;
+}
+
+
+@include media( '>medium' ) {
+
+	.button-block {
+		margin-top: 0px;
+	}
+
 }

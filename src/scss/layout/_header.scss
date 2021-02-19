@@ -6,11 +6,11 @@
 .site-header-inner {
     position: relative; /* To display all elements above the background color */
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 
 	a {
-		width: 50px;
+		width: 175px;
 		height: auto;
 	}
 }
@@ -34,4 +34,12 @@
         line-height: 16px;
         padding: 8px 24px;
     }
+}
+
+
+@include media( '>medium' ) {
+
+	.site-header-inner {
+		justify-content: space-between;
+	}
 }

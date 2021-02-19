@@ -1,6 +1,6 @@
 .hero {
 	text-align: center;
-    padding-top: 40px;
+    // padding-top: 40px;
 }
 
 .hero-paragraph {
@@ -13,14 +13,11 @@
     margin-bottom: 40px;
 }
 
-.wrapper-app{
-	display: flex;
-}
-
 .hero-form {
 	max-width: 440px;
 	margin: 0 auto;
 }
+
 
 .control-list{
 	padding-left: 0px;
@@ -54,6 +51,24 @@
 	.hero-form {
 		margin: 0;
 	}
+
+	.wrapper-app{
+		display: flex;
+	}
+
+	.wrapper-app{
+		.input{
+			width: 200px;
+		}
+	}
+
+	.control-list{
+
+		.control{
+			margin-left: 20px;
+		}
+	}
+
 }
 
 @include media( '>large' ) {
