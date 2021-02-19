@@ -47,9 +47,9 @@
 }())
 
 async function loadBackend (){
-  const resource = await fetch('http://localhost:3002/stores')
+  const resource = await fetch('https://raw.githubusercontent.com/RaphaelFreire/otica/main/backend/backend.json')
   const json = await resource.json()
-  return json;
+  return json.stores;
 }
 
 function getUniqueCitisFrom(backend) {
