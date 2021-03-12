@@ -47,7 +47,7 @@
 }())
 
 async function loadBackend (){
-  const resource = await fetch('https://raw.githubusercontent.com/RaphaelFreire/otica/main/backend/backend.json')
+  const resource = await fetch('https://www.agendarexamedevista.com.br/backend/backend.json')
   const json = await resource.json()
   return json.stores;
 }
