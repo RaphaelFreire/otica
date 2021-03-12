@@ -5,7 +5,7 @@
         "name": "Mercadão dos Óculos de Olímpia"
       },
       "location": {
-        "city": "Olímpia",
+        "city": "Olímpia - SP",
         "state": "São Paulo"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5517997014171"
@@ -15,7 +15,7 @@
         "name": "Mercadão dos Óculos de Taquaritinga"
       },
       "location": {
-        "city": "Taquaritinga",
+        "city": "Taquaritinga - SP",
         "state": "São Paulo"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5516996139668"
@@ -25,7 +25,7 @@
         "name": "Mercadão dos Óculos de Americana"
       },
       "location": {
-        "city": "Americana",
+        "city": "Americana - SP",
         "state": "São Paulo"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5519996817766"
@@ -35,7 +35,7 @@
         "name": "Mercadão dos Óculos de Florianópolis"
       },
       "location": {
-        "city": "Florianópolis",
+        "city": "Florianópolis - SC",
         "state": "Santa Catarina"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5548988243139"
@@ -45,7 +45,7 @@
         "name": "Mercadão dos Óculos de São José "
       },
       "location": {
-        "city": "São José",
+        "city": "São José - SC",
         "state": "Santa Catarina"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5548988243139"
