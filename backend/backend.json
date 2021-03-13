@@ -42,13 +42,34 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de São José "
+        "name": "Mercadão dos Óculos de São José"
       },
       "location": {
         "city": "São José - SC",
         "state": "Santa Catarina"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5548988243139"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Barretos"
+      },
+      "location": {
+        "city": "Barretos - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5517991532660"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Bebedouro"
+      },
+      "location": {
+        "city": "Bebedouro - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5517992802122"
     }
+
   ]
 }
