@@ -6,7 +6,7 @@ module.exports = {
 	siteMetadata: {
 		title: `Agendar Exame de Vista`,
 		position: ``,
-		description: `Site Especializado em conectar potenciais clientes com a sua Ótica`,
+		description: `Site Especializado em conectar potenciais clientes com a sua ótica`,
 		author: `Agendar Exame de Vista`,
 		siteUrl: `https://agendarexamedevista.com.br/blog`
 	},
