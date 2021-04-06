@@ -6,6 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "es5-ext": "^0.10.53",
     "gatsby": "^3.1.1",
     "gatsby-image": "^3.1.0",
     "gatsby-plugin-algolia-search": "0.5.7",
