@@ -8,7 +8,7 @@ module.exports = {
 		position: ``,
 		description: `Site Especializado em conectar potenciais clientes com a sua ótica`,
 		author: `Agendar Exame de Vista`,
-		siteUrl: `https://agendarexamedevista.com.br/blog`
+		siteUrl: `https://agendarexamedevista.com.br`
 	},
 	flags: {
 		DEV_SSR: false
