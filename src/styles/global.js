@@ -80,7 +80,7 @@ const GlobalStyles = createGlobalStyle`
     --postColor: #4D6ED2;
     --highlight: #531B93;
     --mediumBackground: #f0f0f3;
-    --background: #dedede;
+    --background: #bababa;
     --white: #fff;
     --black: #222;
   }

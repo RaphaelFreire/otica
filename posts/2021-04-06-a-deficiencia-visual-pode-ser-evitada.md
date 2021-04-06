@@ -5,11 +5,11 @@ title: Hábitos que ajudam você a cuidar dos olhos
 description: Adotar hábitos saudáveis para cuidar da sua saúde visual.
 category: Post
 background: "#7AAB13"
-image: "/assets/img/habitos-que-ajudam-voce-a-cuidar-dos-olhos.png"
+image: "/assets/img/a-deficiencia-visual-pode-ser-evitada.png"
 
 ---
 
-![Image](/assets/img/habitos-que-ajudam-voce-a-cuidar-dos-olhos.png)
+![deficiencia-visual](/assets/img/a-deficiencia-visual-pode-ser-evitada.png)
 
 # Hábitos que ajudam você a cuidar dos olhos
 

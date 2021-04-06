@@ -5,11 +5,11 @@ title: A Deficiência Visual pode ser evitada
 description: A baixa visão passa despercebida muitas vezes por esta razão a avaliação oftalmológica precoce é fundamental na detecção de problemas visuais.
 category: Post
 background: "#7AAB13"
-image: "/assets/img/a-deficiencia-visual-pode-ser-evitada.png"
+image: "/assets/img/habitos-que-ajudam-voce-a-cuidar-dos-olhos.png"
 
 ---
 
-![Image](/assets/img/a-deficiencia-visual-pode-ser-evitada.png)
+![habitos](/assets/img/habitos-que-ajudam-voce-a-cuidar-dos-olhos.png)
 
 # A Deficiência Visual pode ser evitada
 
