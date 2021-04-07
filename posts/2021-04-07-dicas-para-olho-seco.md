@@ -1,25 +1,31 @@
 ---
 
-date: 2021-04-07 00:33:00
-title: Dicas para Olho Seco
-description: Procure sempre ter um colírio lubrificante sempre à mão.
+date: 2021-04-07 00:47:00
+title: Você sabia que durante a Gestação você precisa visitar o Oftalmologista?
+description: As Alterações Fisiológicas da Gestação podem predispor às seguintes alterações na Visão
 category: Post
 background: "#7AAB13"
-image: "/assets/img/dicas-como-evitar-olho-seco.png"
+image: "/assets/img/gestante-voce-precisa-visitar-o-oftalmologista.png"
 
 ---
 
-![deficiencia-visual](/assets/img/dicas-como-evitar-olho-seco.png)
+![gestante-voce-precisa-visitar-o-oftalmologista](/assets/img/gestante-voce-precisa-visitar-o-oftalmologista.png)
 
-# Hábitos que ajudam você a cuidar dos olhos
+# Você sabia que durante a Gestação você precisa visitar o Oftalmologista?
 
-Procure sempre ter um colírio lubrificante sempre à mão. Evite ao máximo ar-condicionado ou ventilador, principalmente direcionado diretamente ao rosto. Faça pausas frequentes se fica muito tempo em frente às telas. A cada 20 minutos pare por 20 segundos e olhe para longe.
+As Alterações Fisiológicas da Gestação, que incluem mudanças hormonais e retenção de líquidos, podem predispor às seguintes alterações:
 
-Ao fazer alguma atividade que necessite de atenção, piscamos naturalmente menos do que o normal. Por isso, lembre-se de piscar e de fechar os olhos totalmente sem deixar uma “frestinha”.
+👀 Olho seco
 
-Se tem mais ressecamento à noite ou acorda pela manhã pior, use lubrificante em gel para dormir.
+👀 Inchaço / Edema de pálpebras
 
-Atenção às revisões clínicas, procure um Oftalmo. Muitas vezes olho seco é sinal de alterações hormonais, doenças reumáticas, diabetes ou uso de medicações sistêmicas!
+👀 Alteração do Grau
+
+👀 Sensibilidade a Luz / Fotofobia
+
+A gestante que utiliza lentes de contato terá queixas quanto a adaptação. Pacientes com diagnóstico de glaucoma devem ser avaliadas quanto a mudança dos colírios ou possibilidade de laser antes da gestação.
+
+Pacientes com diabetes gestacional devem realizar exame de fundo de olho. Acompanhamento rigoroso pela maior possibilidade de descompensação da retina. E muita atenção aos escotomas (manchas brilhantes no campo de visão).
 
 
 [agendarexamedevista.com.br](https://www.agendarexamedevista.com.br) | Nós Agilizamos a sua Consulta
