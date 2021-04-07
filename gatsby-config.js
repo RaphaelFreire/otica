@@ -14,13 +14,6 @@ module.exports = {
 		DEV_SSR: false
 	},
 	plugins: [
-		{
-		resolve: `gatsby-plugin-google-analytics`,
-		options: {
-		  // The property ID; the tracking code won't be generated without it
-		  trackingId: "G-K2G598P1TD",
-		},
-	  },
 		`gatsby-plugin-transition-link`,
 		`gatsby-plugin-styled-components`,
 		`gatsby-plugin-react-helmet`,

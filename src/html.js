@@ -12,6 +12,22 @@ export default function HTML(props) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
 
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-K2G598P1TD"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+            window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-K2G598P1TD');
+          `,
+          }}
+        />
+
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes} className="dark">
