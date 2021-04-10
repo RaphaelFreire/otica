@@ -1,37 +1,22 @@
 ---
 
-date: 2021-04-08 21:05:00
-title: Sintomas de problemas de vista
-description: Você tem aquela sensação de vista cansada, sensibilidade à luz, isso pode ser indicativos de problema de vista.
+date: 2021-04-10 15:36:00
+title: Você sabe o que é Visão Dupla
+description: Essa condição ocular, transmite para o cérebro imagens do mesmo objeto com ângulos diferentes. ⠀
 category: Post
 background: "#7AAB13"
-image: "/assets/img/sintomas-de-problemas-de-vista.png"
+image: "/assets/img/voce-sabe-o-que-e-visao-dupla.png"
 
 ---
 
-![sintomas-de-problemas-de-vista](/assets/img/sintomas-de-problemas-de-vista.png)
+![voce-sabe-o-que-e-visao-dupla](/assets/img/sintomas-de-problemas-de-vista.png)
 
-# Sintomas de problemas de vista
+# Você sabe o que é Visão Dupla
 
-Você tem aquela sensação de vista cansada, sensibilidade à luz, lacrimejamento e coceiras nos olhos, por exemplo, podem ser indicativos de problema de vista.
+A Diplopia é uma condição ocular, que causa a percepção da visão dupla. Essa condição ocular, transmite para o cérebro imagens do mesmo objeto com ângulos diferentes. ⠀
 
-O tratamento para os problemas de visão variam de acordo com o problema de vista diagnosticado pelo médico, podendo ser indicado o uso de colírios, nos casos mais simples, ou cirurgia para correção da visão nos casos mais graves.
+Quem desenvolve essa alteração, tem maior dificuldade em fundir as imagens de ambos os olhos num único foco, obtendo a sensação dupla de ver as coisas. Procure um Oftalmo para que seja analisado e diagnosticado o motivo que causa a Visão Dupla.
 
-Principais sintomas de problemas de vista:
-
-- Lacrimejamento em excesso;
-- Hipersensibilidade à luz;
-- Sensação de vista cansada;
-- Dificuldade para enxergar à noite;
-- Dor de cabeça frequente;
-- Vermelhidão e dor nos olhos;
-- Coceira nos olhos;
-- Visualização de imagens duplicadas;
-- Necessidade de fechar os olhos para enxergar os objetos focados;
-- Desvio dos olhos para o nariz ou para fora;
-- Necessidade de esfregar os olhos várias vezes por dia.
-
-Consulte um oftalmologista para que seja feito o diagnóstico e possa ser iniciado o tratamento caso haja necessidade.
 
 [agendarexamedevista.com.br](https://www.agendarexamedevista.com.br) | Nós Agilizamos a sua Consulta
 
