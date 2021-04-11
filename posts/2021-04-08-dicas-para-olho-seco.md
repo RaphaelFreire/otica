@@ -1,6 +1,6 @@
 ---
 
-date: 2021-04-07 00:33:00
+date: 2021-04-08 00:33:00
 title: Dicas para Olho Seco
 description: Procure sempre ter um colírio lubrificante sempre à mão.
 category: Post

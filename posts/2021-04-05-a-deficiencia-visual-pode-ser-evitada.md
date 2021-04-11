@@ -1,6 +1,6 @@
 ---
 
-date: 2021-04-06 00:05:00
+date: 2021-04-05 00:05:00
 title: A Deficiência Visual pode ser evitada
 description: A baixa visão passa despercebida muitas vezes por esta razão a avaliação oftalmológica precoce é fundamental na detecção de problemas visuais.
 category: Post

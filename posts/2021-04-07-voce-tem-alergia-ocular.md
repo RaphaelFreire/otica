@@ -1,6 +1,6 @@
 ---
 
-date: 2021-04-08 00:19:00
+date: 2021-04-07 00:19:00
 title: Você tem alergia ocular?
 description: Procure um Imunologista ou ou alergista para identificar a causa.
 category: Post
