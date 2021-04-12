@@ -115,30 +115,10 @@
         "name": "Mercadão dos Óculos de Porto Alegre"
       },
       "location": {
-        "city": "Porto Alegre - Unidade Otto Niemeyer - RS",
+        "city": "Porto Alegre - RS",
         "state": "Rio Grande do Sul"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5551993226247"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Porto Alegre"
-      },
-      "location": {
-        "city": "Porto Alegre - Unidade Borges de Medeiros - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551986081598"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Porto Alegre"
-      },
-      "location": {
-        "city": "Porto Alegre - Unidade Dr. Flores - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551986081598"
     },
     {
       "store": {
