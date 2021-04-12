@@ -69,7 +69,86 @@
         "state": "São Paulo"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5517992802122"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Camaquã"
+      },
+      "location": {
+        "city": "Camaquã - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5551993636456"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Farroupilha"
+      },
+      "location": {
+        "city": "Farroupilha - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5554984328378"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Carazinho"
+      },
+      "location": {
+        "city": "Carazinho - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5554996252074"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Bento Gonçalves"
+      },
+      "location": {
+        "city": "Bento Gonçalves - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5554984335983"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Porto Alegre"
+      },
+      "location": {
+        "city": "Porto Alegre - Unidade Otto Niemeyer - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5551993226247"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Porto Alegre"
+      },
+      "location": {
+        "city": "Porto Alegre - Unidade Borges de Medeiros - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5551986081598"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Porto Alegre"
+      },
+      "location": {
+        "city": "Porto Alegre - Unidade Dr. Flores - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5551986081598"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Ijuí"
+      },
+      "location": {
+        "city": "Ijuí - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5555999111495"
     }
-
   ]
 }
