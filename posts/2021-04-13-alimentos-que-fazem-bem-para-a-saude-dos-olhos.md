@@ -1,28 +1,22 @@
 ---
 
-date: 2021-04-13 21:11:00
-title: Alimentos que fazem bem para a saúde dos olhos
-description: Manter uma alimentação saudável é fundamental e não serve apenas para quem quer emagrecer, é essencial para a nossa visão, pois existem determinados alimentos que fazem bem para a saúde dos olhos.
+date: 2021-04-14 21:13:00
+title: Cuide da saúde visual do seu filho
+description: Quando temos crianças em casa, a atenção deve ser redobrada. 
 category: Post
 background: "#7AAB13"
-image: "/assets/img/alimentos-que-fazem-bem-para-a-saude-dos-olhos.png"
+image: "/assets/img/cuide-da-saude-visual-do-seu-filho.png"
 
 ---
 
-![alimentos-que-fazem-bem-para-a-saude-dos-olhos](/assets/img/alimentos-que-fazem-bem-para-a-saude-dos-olhos.png)
+![cuide-da-saude-visual-do-seu-filho](/assets/img/cuide-da-saude-visual-do-seu-filho.png)
 
-# Alimentos que fazem bem para a saúde dos olhos
+# Cuide da saúde visual do seu filho
 
-Manter uma alimentação saudável é fundamental e não serve apenas para quem quer emagrecer, é essencial para a nossa visão, pois existem determinados alimentos que fazem bem para a saúde dos olhos.
+Quando temos crianças em casa, a atenção deve ser redobrada. No momento em que eles começam a ter autonomia e descobrir o mundo, alguns objetos simples podem causar grandes complicações à saúde visual infantil.
 
-Confira alguns alimentos que fazem bem para a saúde dos olhos: 
+É necessário ter extremo cuidado com brinquedos que possam ter peças pequenas, pontiagudas ou até mesmo jogos que precisem colocar máscaras ou outros objetos no rosto. Muitas vezes, as emergências oculares infantis se desencadeiam de simples brincadeiras ou distrações dos pais.
 
-- Frutas vermelhas ou roxas (Morangos, Amoras e Framboesas) são ricas em vitamina C.
-- Frutas amarelas ou verdes (Laranjas, Limões e Maçã) que são fontes de carotenóides. 
-- Peixe (Salmão, Atum e Sardinhas) são ricos em ômega 3.
-- Folhas e verduras verdes (Couve, Brócolis e Rúcula) são ricos em luteína e zeaxantina, são antioxidantes que possuem ação anti-inflamatória e cicatrizante.
-- Os ovos possuem vitaminas, minerais, proteínas e gorduras que fazem bem à saúde.
-- Alho e cebola são ricos em vitaminas B, C, cálcio e fósforo.
 
 [agendarexamedevista.com.br](https://www.agendarexamedevista.com.br) | Nós Agilizamos a sua Consulta
 
