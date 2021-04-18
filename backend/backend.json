@@ -62,23 +62,13 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de Bebedouro"
-      },
-      "location": {
-        "city": "Bebedouro - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5517992802122"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos de Camaquã"
       },
       "location": {
         "city": "Camaquã - RS",
         "state": "Rio Grande do Sul"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
+      "whatsapp": "https://api.whatsapp.com/send?phone=5551993636456"
     },
     {
       "store": {
@@ -88,7 +78,7 @@
         "city": "Farroupilha - RS",
         "state": "Rio Grande do Sul"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
+      "whatsapp": "https://api.whatsapp.com/send?phone=5554984328378"
     },
     {
       "store": {
@@ -98,7 +88,7 @@
         "city": "Carazinho - RS",
         "state": "Rio Grande do Sul"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
+      "whatsapp": "https://api.whatsapp.com/send?phone=5554996252074"
     },
     {
       "store": {
@@ -108,7 +98,7 @@
         "city": "Bento Gonçalves - RS",
         "state": "Rio Grande do Sul"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
+      "whatsapp": "https://api.whatsapp.com/send?phone=5554984335983"
     },
     {
       "store": {
@@ -118,7 +108,7 @@
         "city": "Porto Alegre - RS",
         "state": "Rio Grande do Sul"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=51996484964"
+      "whatsapp": "https://api.whatsapp.com/send?phone=5551986081598"
     },
     {
       "store": {
@@ -128,7 +118,7 @@
         "city": "Ijuí - RS",
         "state": "Rio Grande do Sul"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
+      "whatsapp": "https://api.whatsapp.com/send?phone=5555999111495"
     },
     {
       "store": {
