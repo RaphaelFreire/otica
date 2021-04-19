@@ -32,26 +32,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de Florianópolis"
-      },
-      "location": {
-        "city": "Florianópolis - SC",
-        "state": "Santa Catarina"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5548988243139"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de São José"
-      },
-      "location": {
-        "city": "São José (kobrasol) - SC",
-        "state": "Santa Catarina"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5548988243139"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos de Barretos"
       },
       "location": {
@@ -129,6 +109,16 @@
         "state": "São Paulo"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5513997611428"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Três Passos - RS"
+      },
+      "location": {
+        "city": "Três Passos - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=555599231826"
     }
   ]
 }
