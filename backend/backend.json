@@ -139,6 +139,16 @@
         "state": "Paraná"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=554188252131"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Campinas - SP"
+      },
+      "location": {
+        "city": "Campinas - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5519991525253"
     }
   ]
 }
