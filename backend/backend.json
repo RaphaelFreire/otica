@@ -112,16 +112,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de Três Passos - RS"
-      },
-      "location": {
-        "city": "Três Passos - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=555599231826"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos de Campina Grande do Sul - PR"
       },
       "location": {
