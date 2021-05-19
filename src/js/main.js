@@ -56,7 +56,7 @@ function getUniqueCitisFrom (backend) {
   const citis = backend.map(({ location }) => location.city)
   let uniqueCitis = new Set(citis)
   uniqueCitis = Array.from(uniqueCitis)
-  return uniqueCitis.sort()
+  return uniqueCitis
 }
 
 function createCenteredDiv () {
