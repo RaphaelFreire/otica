@@ -43,5 +43,8 @@
     "uglify-es": "^3.3.10"
   },
   "homepage": "",
-  "main": ".eslintrc.js"
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }

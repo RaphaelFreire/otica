@@ -46,46 +46,43 @@
   }
 }())
 
-async function loadBackend (){
+async function loadBackend () {
   const resource = await fetch('https://www.agendarexamedevista.com.br/backend/backend.json')
   const json = await resource.json()
-  return json.stores;
+  return json.stores
 }
 
-function getUniqueCitisFrom(backend) {
+function getUniqueCitisFrom (backend) {
   const citis = backend.map(({ location }) => location.city)
   let uniqueCitis = new Set(citis)
   uniqueCitis = Array.from(uniqueCitis)
   return uniqueCitis.sort()
 }
 
-function createCenteredDiv() {
+function createCenteredDiv () {
   const element = document.createElement('div')
   element.classList.add('wrapper-app')
   return element
 }
 
-function clearChildrenFrom(element) {
+function clearChildrenFrom (element) {
   while (element.firstChild) {
-    element.removeChild(element.lastChild);
+    element.removeChild(element.lastChild)
   }
 }
 
-
-function filterUsersFromState(backend, selectedCity, element) {
-
+function filterUsersFromState (backend, selectedCity, element) {
   const divFilteredUsers = element.querySelector('.filteredUsers')
   clearChildrenFrom(divFilteredUsers)
 
   const filteredUsers = backend.filter(
     ({ location }) => location.city === selectedCity
-  );
+  )
 
   renderUsers(filteredUsers, divFilteredUsers)
 }
 
-function renderApp(usersBackend) {
-
+function renderApp (usersBackend) {
   const citis = getUniqueCitisFrom(usersBackend)
   const element = document.querySelector('#app')
   const divData = createCenteredDiv()
@@ -102,43 +99,39 @@ function renderApp(usersBackend) {
   }
 
   select.addEventListener('change', ({ currentTarget }) => {
-    filterUsersFromState(usersBackend, currentTarget.value, element);
-  });
+    filterUsersFromState(usersBackend, currentTarget.value, element)
+  })
 
   const divFilteredUsers = document.createElement('div')
   divFilteredUsers.classList.add('filteredUsers')
 
   divData.appendChild(select)
   divData.appendChild(divFilteredUsers)
-  clearChildrenFrom(element);
+  clearChildrenFrom(element)
   element.appendChild(divData)
   filterUsersFromState(usersBackend, citis[0], element)
 }
 
-function renderUser(store) {
-
+function renderUser (store) {
   console.log(store)
 
-  const { whatsapp } = store;
+  const { whatsapp } = store
 
   const liStore = document.createElement('li')
   liStore.classList.add('control')
 
-
   liStore.innerHTML = `
       <a class="button button-primary button-block" target="_blank" rel="noopener noreferrer" href="${whatsapp}">Agendar Consulta</a>
-  `;
+  `
 
   return liStore
 }
 
-function renderUsers(stores, element) {
-
+function renderUsers (stores, element) {
   const ulStores = document.createElement('ul')
   ulStores.classList.add('control-list')
 
   for (const store of stores) {
-
     const liStore = renderUser(store)
     ulStores.appendChild(liStore)
   }
@@ -146,10 +139,9 @@ function renderUsers(stores, element) {
   element.append(ulStores)
 }
 
-async function start() {
+async function start () {
   const usersBackend = await loadBackend()
   renderApp(usersBackend)
 }
 
 start()
-

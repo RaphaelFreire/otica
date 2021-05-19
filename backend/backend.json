@@ -2,6 +2,16 @@
   "stores": [
     {
       "store": {
+        "name": "Selecione"
+      },
+      "location": {
+        "city": "Selecine a sua Cidade",
+        "state": ""
+      },
+      "whatsapp": ""
+    },
+    {
+      "store": {
         "name": "Mercadão dos Óculos de Olímpia"
       },
       "location": {
