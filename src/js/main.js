@@ -47,10 +47,13 @@
 }())
 
 async function loadBackend () {
-  // const resource = await fetch('https://www.agendarexamedevista.com.br/backend/backend.json')
   // eslint-disable-next-line no-undef
-  const resource = await fetch('https://www.agendarexamedevista.com.br/backend/backend.json').then(response => response.json())
-  return resource
+  const resource = await fetch('https://www.agendarexamedevista.com.br/backend/backend.json')
+  const json = await resource.json()
+  return json.stores
+
+  // const resource = await fetch('http://localhost:3002/stores).then(response => response.json())
+  // return resource
 }
 
 function getUniqueCitisFrom (backend) {
