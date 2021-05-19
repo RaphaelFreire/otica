@@ -47,9 +47,10 @@
 }())
 
 async function loadBackend () {
-  const resource = await fetch('https://www.agendarexamedevista.com.br/backend/backend.json')
-  const json = await resource.json()
-  return json.stores
+  // const resource = await fetch('https://www.agendarexamedevista.com.br/backend/backend.json')
+  // eslint-disable-next-line no-undef
+  const resource = await fetch('https://www.agendarexamedevista.com.br/backend/backend.json').then(response => response.json())
+  return resource
 }
 
 function getUniqueCitisFrom (backend) {
@@ -124,7 +125,13 @@ function renderUser (store) {
       <a class="button button-primary button-block" target="_blank" rel="noopener noreferrer" href="${whatsapp}">Agendar Consulta</a>
   `
 
-  return liStore
+  if (store.location.city === 'Escolha a Cidade') {
+    return ''
+  } else {
+    return liStore
+  }
+
+  // return liStore
 }
 
 function renderUsers (stores, element) {
