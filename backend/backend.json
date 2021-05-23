@@ -71,66 +71,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de Camaquã"
-      },
-      "location": {
-        "city": "Camaquã - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Farroupilha"
-      },
-      "location": {
-        "city": "Farroupilha - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Carazinho"
-      },
-      "location": {
-        "city": "Carazinho - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Bento Gonçalves"
-      },
-      "location": {
-        "city": "Bento Gonçalves - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Porto Alegre"
-      },
-      "location": {
-        "city": "Porto Alegre - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Ijuí"
-      },
-      "location": {
-        "city": "Ijuí - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5551996484964"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos de São Vicente"
       },
       "location": {
