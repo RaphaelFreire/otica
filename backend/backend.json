@@ -81,6 +81,36 @@
     },
     {
       "store": {
+        "name": "Mercadão dos Óculos de São Vicente"
+      },
+      "location": {
+        "city": "Guarujá - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5513997611428"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de São Vicente"
+      },
+      "location": {
+        "city": "Praia Grande - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5513997611428"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de São Vicente"
+      },
+      "location": {
+        "city": "Santos - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5513997611428"
+    },
+    {
+      "store": {
         "name": "Mercadão dos Óculos de Campina Grande do Sul - PR"
       },
       "location": {
