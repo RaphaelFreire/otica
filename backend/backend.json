@@ -154,30 +154,30 @@
         "name": "Mercadão dos Óculos Tubarão - SC"
       },
       "location": {
-        "city": "Tubarão",
+        "city": "Tubarão - SC",
         "state": "Santa Catarina"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos Canoas - SC"
+        "name": "Mercadão dos Óculos Canoas - RS"
       },
       "location": {
-        "city": "Canoas",
-        "state": "Santa Catarina"
+        "city": "Canoas - RS",
+        "state": "Rio Grande do Sul"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=55554888610410"
+      "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
     },
     {
       "store": {
         "name": "Mercadão dos Óculos Joinville - SC"
       },
       "location": {
-        "city": "Joinville",
+        "city": "Joinville - SC",
         "state": "Santa Catarina"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=55554888610410"
+      "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
     }
   ]
 }
