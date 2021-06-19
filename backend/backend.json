@@ -121,16 +121,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de Colombo - PR"
-      },
-      "location": {
-        "city": "Colombo - PR",
-        "state": "Paraná"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=554188252131"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos de Campinas - SP"
       },
       "location": {
@@ -176,6 +166,27 @@
       "location": {
         "city": "Joinville - SC",
         "state": "Santa Catarina"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
+    },
+     {
+      "store": {
+        "name": "Mercadão dos Óculos Porto Alegre - RS"
+      },
+      "location": {
+        "city": "Porto Alegre - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
+    },
+    ,
+     {
+      "store": {
+        "name": "Mercadão dos Óculos Viamão - RS"
+      },
+      "location": {
+        "city": "Viamão - RS",
+        "state": "Rio Grande do Sul"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
     }
