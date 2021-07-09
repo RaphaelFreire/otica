@@ -19,7 +19,8 @@
         "state": "São Paulo"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5517997014171"
-    },{
+    },
+    {
       "store": {
         "name": "Mercadão dos Óculos de Florianópolis"
       },
@@ -169,7 +170,7 @@
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
     },
-     {
+    {
       "store": {
         "name": "Mercadão dos Óculos Porto Alegre - RS"
       },
@@ -179,7 +180,7 @@
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
     },
-     {
+    {
       "store": {
         "name": "Mercadão dos Óculos Viamão - RS"
       },
@@ -188,6 +189,16 @@
         "state": "Rio Grande do Sul"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos Ipiranga - SP"
+      },
+      "location": {
+        "city": "São Paulo - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=55‎11989487264"
     }
   ]
 }
