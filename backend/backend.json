@@ -52,6 +52,16 @@
     },
     {
       "store": {
+        "name": "Mercadão dos Óculos de Sorocaba"
+      },
+      "location": {
+        "city": "Sorocaba - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5515996960061"
+    },
+    {
+      "store": {
         "name": "Mercadão dos Óculos de Americana"
       },
       "location": {
