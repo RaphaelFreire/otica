@@ -22,6 +22,16 @@
     },
     {
       "store": {
+        "name": "Mercadão dos Óculos Jundiaí - SP"
+      },
+      "location": {
+        "city": "Jundiaí - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=55‎11972318172"
+    }
+    {
+      "store": {
         "name": "Mercadão dos Óculos de Florianópolis"
       },
       "location": {
