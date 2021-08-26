@@ -42,6 +42,16 @@
     },
     {
       "store": {
+        "name": "Mercadão dos Óculos Uberlândia - MG"
+      },
+      "location": {
+        "city": "Uberlândia - MG",
+        "state": "Minas Gerais"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=55‎34996535453"
+    },
+    {
+      "store": {
         "name": "Mercadão dos Óculos de Florianópolis"
       },
       "location": {
