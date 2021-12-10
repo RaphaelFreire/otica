@@ -32,7 +32,7 @@ export const PostItemWrapper = styled.section`
 
   ${media.lessThan("large")`
     align-items: flex-start;
-    /* flex-direction: column; */
+    flex-direction: column;
     padding: 2rem 1rem;
   `}
 `
