@@ -8,7 +8,7 @@ import Pagination from "../components/Pagination"
 
 import * as S from "../components/ListWrapper/styled"
 
-const BlogList = props => {
+const BlogList = (props) => {
   const postList = props.data.allMarkdownRemark.edges
 
   const { currentPage, numPages } = props.pageContext
@@ -24,7 +24,14 @@ const BlogList = props => {
         {postList.map(
           ({
             node: {
-              frontmatter: { background, category, date, description, title },
+              frontmatter: {
+                background,
+                category,
+                date,
+                description,
+                title,
+                image,
+              },
               timeToRead,
               fields: { slug },
             },
@@ -37,6 +44,7 @@ const BlogList = props => {
               date={date}
               timeToRead={timeToRead}
               title={title}
+              image={image}
               description={description}
             />
           )
@@ -72,6 +80,7 @@ export const query = graphql`
             date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
             description
             title
+            image
           }
           timeToRead
           wordCount {

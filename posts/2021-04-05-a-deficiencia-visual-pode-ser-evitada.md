@@ -1,15 +1,13 @@
 ---
-
 date: 2021-04-05 00:05:00
 title: A Deficiência Visual pode ser evitada
 description: A baixa visão passa despercebida muitas vezes por esta razão a avaliação oftalmológica precoce é fundamental na detecção de problemas visuais.
 category: Post
 background: "#7AAB13"
-image: "/assets/img/habitos-que-ajudam-voce-a-cuidar-dos-olhos.png"
-
+image: "/assets/img/a-deficiencia-visual-pode-ser-evitada.png"
 ---
 
-![habitos](/assets/img/habitos-que-ajudam-voce-a-cuidar-dos-olhos.png)
+![habitos](/assets/img/a-deficiencia-visual-pode-ser-evitada.png)
 
 # A Deficiência Visual pode ser evitada
 
@@ -20,4 +18,3 @@ Evite ao máximo coçar os seus olhos, não leve as mãos a eles sem uma boa hig
 Pratique atividade física regularmente, especialmente ao ar livre. É fundamental ir ao oftalmo mesmo sem sintoma algum, faça visitas regulares a partir dos 30.
 
 [agendarexamedevista.com.br](https://www.agendarexamedevista.com.br) | Nós Agilizamos a sua Consulta
-

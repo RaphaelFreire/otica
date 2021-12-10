@@ -1,109 +1,104 @@
-const path = require("path");
-const { createFilePath } = require(`gatsby-source-filesystem`);
-
+const path = require("path")
+const { createFilePath } = require("gatsby-source-filesystem")
 
 exports.sourceNodes = ({ actions, schema }) => {
-	const { createTypes } = actions
+  const { createTypes } = actions
 
-	createTypes(`
+  createTypes(`
 	  type MarkdownRemarkFrontmatter {
-		image: String
+		  image: String
 	  }
 	  type MarkdownRemark implements Node {
-		frontmatter: MarkdownRemarkFrontmatter
+		  frontmatter: MarkdownRemarkFrontmatter
 	  }
 	`)
 }
 
-
 // To add the slug field to each post
 exports.onCreateNode = ({ node, getNode, actions }) => {
-	const { createNodeField } = actions;
+  const { createNodeField } = actions
 
-	if (node.internal.type === `MarkdownRemark`) {
-		const slug = createFilePath({ node, getNode, basePath: `pages` });
-		createNodeField({
-			node,
-			name: `slug`,
-			value: `/${slug.slice(12)}`
-		});
-	}
-};
+  if (node.internal.type === `MarkdownRemark`) {
+    const slug = createFilePath({ node, getNode, basePath: `pages` })
+    createNodeField({
+      node,
+      name: `slug`,
+      value: `/${slug.slice(12)}`,
+    })
+
+    console.log("slug", slug)
+  }
+}
 
 exports.createPages = ({ graphql, actions }) => {
-	const { createPage } = actions;
+  const { createPage } = actions
 
-	return graphql(`
-		{
-			allMarkdownRemark(
-				sort: { fields: frontmatter___date, order: DESC }
-			) {
-				edges {
-					node {
-						fields {
-							slug
-						}
-						frontmatter {
-							background
-							category
-							date(
-								locale: "pt-br"
-								formatString: "DD [de] MMMM [de] YYYY"
-							)
-							description
-							title
-							image
-						}
-						timeToRead
-					}
-					next {
-						frontmatter {
-							title
-						}
-						fields {
-							slug
-						}
-					}
-					previous {
-						fields {
-							slug
-						}
-						frontmatter {
-							title
-						}
-					}
-				}
-			}
-		}
-	`).then(result => {
-		const posts = result.data.allMarkdownRemark.edges;
+  return graphql(`
+    {
+      allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
+        edges {
+          node {
+            fields {
+              slug
+            }
+            frontmatter {
+              background
+              category
+              date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
+              description
+              title
+              image
+            }
+            timeToRead
+          }
+          next {
+            frontmatter {
+              title
+            }
+            fields {
+              slug
+            }
+          }
+          previous {
+            fields {
+              slug
+            }
+            frontmatter {
+              title
+            }
+          }
+        }
+      }
+    }
+  `).then((result) => {
+    const posts = result.data.allMarkdownRemark.edges
 
-		posts.forEach(({ node, next, previous }) => {
-			createPage({
-				path: node.fields.slug,
-				component: path.resolve("./src/templates/blog-post.js"),
-				context: {
-					slug: node.fields.slug,
-					previousPost: next,
-					nextPost: previous
-				}
-			});
-		});
+    posts.forEach(({ node, next, previous }) => {
+      createPage({
+        path: node.fields.slug,
+        component: path.resolve("./src/templates/blog-post.js"),
+        context: {
+          slug: node.fields.slug,
+          previousPost: next,
+          nextPost: previous,
+        },
+      })
+    })
 
-		const postsPerPage = 4;
-		const numPages = Math.ceil(posts.length / postsPerPage);
+    const postsPerPage = 12
+    const numPages = Math.ceil(posts.length / postsPerPage)
 
-		Array.from({ length: numPages }).forEach((_, index) => {
-			createPage({
-				path: index === 0 ? `/` : `/page/${index + 1}`,
-				component: path.resolve(`./src/templates/blog-list.js`),
-				context: {
-					limit: postsPerPage,
-					skip: index * postsPerPage,
-					numPages,
-					currentPage: index + 1
-				}
-			});
-		});
-	});
-};
+    Array.from({ length: numPages }).forEach((_, index) => {
+      createPage({
+        path: index === 0 ? `/` : `/page/${index + 1}`,
+        component: path.resolve(`./src/templates/blog-list.js`),
+        context: {
+          limit: postsPerPage,
+          skip: index * postsPerPage,
+          numPages,
+          currentPage: index + 1,
+        },
+      })
+    })
+  })
+}
