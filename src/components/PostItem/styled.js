@@ -32,7 +32,7 @@ export const PostItemWrapper = styled.section`
 
   ${media.lessThan("large")`
     align-items: flex-start;
-    flex-direction: column;
+    /* flex-direction: column; */
     padding: 2rem 1rem;
   `}
 `
@@ -41,23 +41,20 @@ export const PostItemTag = styled.div`
   align-items: center;
   background: ${(props) => `url(${props.background})`} no-repeat;
   background-size: cover;
-  border-radius: 50%;
   color: var(--white);
   display: flex;
   font-size: 1.3rem;
   font-weight: 700;
   justify-content: center;
-  min-height: 90px;
-  min-width: 90px;
+  min-height: 250px;
+  min-width: 250px;
   text-transform: uppercase;
 
   ${media.lessThan("large")`
     border-radius: 0;
     font-size: 1rem;
-    min-height: auto;
-    min-width: auto;
     padding: .2rem .5rem;
-    margin-bottom: .7rem;
+    margin-right: 1rem;
   `}
 
   body#grid & {
