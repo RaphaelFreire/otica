@@ -32,26 +32,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos Jundiaí - SP"
-      },
-      "location": {
-        "city": "Jundiaí - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=55‎11972318172"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos Uberlândia - MG"
-      },
-      "location": {
-        "city": "Uberlândia - MG",
-        "state": "Minas Gerais"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=55‎34996535453"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos de Florianópolis"
       },
       "location": {
@@ -102,16 +82,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de Barretos"
-      },
-      "location": {
-        "city": "Barretos - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5517991532660"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos de São Vicente"
       },
       "location": {
@@ -149,36 +119,6 @@
         "state": "São Paulo"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5513997611428"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Belém - PA"
-      },
-      "location": {
-        "city": "Belém - PA",
-        "state": "Pará"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5591993140174"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Campinas - SP"
-      },
-      "location": {
-        "city": "Campinas - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5519991525253"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Orlândia - SP"
-      },
-      "location": {
-        "city": "Orlândia - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5516994357979"
     },
     {
       "store": {
@@ -229,16 +169,6 @@
         "state": "Rio Grande do Sul"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos Ipiranga - SP"
-      },
-      "location": {
-        "city": "São Paulo - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=55‎11989487264"
     }
   ]
 }
