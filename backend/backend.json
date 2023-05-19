@@ -62,17 +62,7 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de Sorocaba"
-      },
-      "location": {
-        "city": "Sorocaba - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5515996960061"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Americana"
+        "name": "Ótica Óculos e Talz"
       },
       "location": {
         "city": "Americana - SP",
@@ -137,16 +127,6 @@
       "location": {
         "city": "Canoas - RS",
         "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos Joinville - SC"
-      },
-      "location": {
-        "city": "Joinville - SC",
-        "state": "Santa Catarina"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
     },
