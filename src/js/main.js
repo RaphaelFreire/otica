@@ -52,8 +52,8 @@ async function loadBackend () {
   const json = await resource.json()
   return json.stores
 
-  // const resource = await fetch('http://localhost:3002/stores').then(response => response.json())
-  // return resource
+  // const resource = await fetch('http://localhost:3001/backend/backend.json').then(response => response.json())
+  // return resource.stores
 }
 
 function getUniqueCitisFrom (backend) {
