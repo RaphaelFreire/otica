@@ -52,7 +52,7 @@ async function loadBackend () {
   const json = await resource.json()
   return json.stores
 
-  // const resource = await fetch('http://localhost:3002/stores).then(response => response.json())
+  // const resource = await fetch('http://localhost:3002/stores').then(response => response.json())
   // return resource
 }
 

@@ -45,6 +45,7 @@
   "homepage": "",
   "main": ".eslintrc.js",
   "dependencies": {
+    "brace-expansion": "^2.0.1",
     "node-fetch": "^2.6.1"
   }
 }
