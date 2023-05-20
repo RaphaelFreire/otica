@@ -48,7 +48,7 @@
 
 async function loadBackend () {
   // eslint-disable-next-line no-undef
-  const resource = await fetch('https://agendarexamedevista.com.br/otica/backend/backend.json')
+  const resource = await fetch('https://www.agendarexamedevista.com.br/otica/backend/backend.json')
   const json = await resource.json()
   return json.stores
 
