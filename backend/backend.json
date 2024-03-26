@@ -129,6 +129,76 @@
         "state": "São Paulo"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5516993240269"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos Lins - SP"
+      },
+      "location": {
+        "city": "Lins - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5514991716850"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos Birigui - SP"
+      },
+      "location": {
+        "city": "Birigui - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5518996966850"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos Birigui - SP"
+      },
+      "location": {
+        "city": "Birigui - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5518997006850"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos Mangabeira - PB"
+      },
+      "location": {
+        "city": "Mangabeira - PB",
+        "state": "Paraíba"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5583991109090"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos Mangabeira - PB"
+      },
+      "location": {
+        "city": "Mangabeira - PB",
+        "state": "Paraíba"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5583991109090"
+    },
+    {
+      "store": {
+        "name": "Clinica Ponto de Vista - SC"
+      },
+      "location": {
+        "city": "Itajaí São Vicente - SC",
+        "state": "Santa Catarina"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5547991376956"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos Mogi Guaçu - SP"
+      },
+      "location": {
+        "city": "Mogi Guaçu - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5519971111444"
     }
   ]
 }
