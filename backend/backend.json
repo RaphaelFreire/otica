@@ -88,7 +88,17 @@
         "city": "Tubarão - SC",
         "state": "Santa Catarina"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
+      "whatsapp": "https://api.whatsapp.com/send?phone=554899771002"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos Tubarão Oficinas - SC"
+      },
+      "location": {
+        "city": "Tubarão - SC",
+        "state": "Santa Catarina"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=554892088787"
     },
     {
       "store": {
@@ -98,7 +108,17 @@
         "city": "Canoas - RS",
         "state": "Rio Grande do Sul"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
+      "whatsapp": "https://api.whatsapp.com/send?phone=555191489295"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos Porto Alegre - RS"
+      },
+      "location": {
+        "city": "Porto Alegre - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=555180648629"
     },
     {
       "store": {
