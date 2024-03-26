@@ -92,6 +92,16 @@
     },
     {
       "store": {
+        "name": "Mercadão dos Óculos Panambi - RS"
+      },
+      "location": {
+        "city": "Panmabi - RS",
+        "state": "Rio Grande do Sul"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=555533750122"
+    },
+    {
+      "store": {
         "name": "Mercadão dos Óculos Tubarão Oficinas - SC"
       },
       "location": {
