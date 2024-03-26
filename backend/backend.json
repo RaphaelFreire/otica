@@ -112,16 +112,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos Viamão - RS"
-      },
-      "location": {
-        "city": "Viamão - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=554888610410"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos São Carlos - SP"
       },
       "location": {
