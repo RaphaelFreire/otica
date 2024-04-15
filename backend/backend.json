@@ -22,16 +22,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de Ribeirão Preto"
-      },
-      "location": {
-        "city": "Ribeirão Preto - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=551634428690"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos de Tijucas"
       },
       "location": {
