@@ -12,6 +12,26 @@
     },
     {
       "store": {
+        "name": "Mercadão dos Óculos de Tabatinga"
+      },
+      "location": {
+        "city": "Tabatinga - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5516996001026"
+    },
+    {
+      "store": {
+        "name": "Mercadão dos Óculos de Potirendaba"
+      },
+      "location": {
+        "city": "Potirendaba - SP",
+        "state": "São Paulo"
+      },
+      "whatsapp": "https://api.whatsapp.com/send?phone=5517996509700"
+    },
+    {
+      "store": {
         "name": "Mercadão dos Óculos de Olímpia"
       },
       "location": {
