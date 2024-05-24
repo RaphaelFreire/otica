@@ -162,16 +162,6 @@
     },
     {
       "store": {
-        "name": "Clinica Ponto de Vista - SC"
-      },
-      "location": {
-        "city": "Itajaí São Vicente - SC",
-        "state": "Santa Catarina"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5547991376956"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos Mogi Guaçu - SP"
       },
       "location": {
