@@ -92,26 +92,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos Biguaçu - SC"
-      },
-      "location": {
-        "city": "Biguaçu - SC",
-        "state": "Santa Catarina"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=48991592694"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos Palhoça - SC"
-      },
-      "location": {
-        "city": "Palhoça - SC",
-        "state": "Santa Catarina"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5548992082831"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos Porto Alegre - RS"
       },
       "location": {
