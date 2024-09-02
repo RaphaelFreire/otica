@@ -132,16 +132,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos Araçatuba - SP"
-      },
-      "location": {
-        "city": "Araçatuba - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5518997006850"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos Mangabeira - PB"
       },
       "location": {
