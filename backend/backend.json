@@ -112,26 +112,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos Lins - SP"
-      },
-      "location": {
-        "city": "Lins - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5514991716850"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos Birigui - SP"
-      },
-      "location": {
-        "city": "Birigui - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5518996966850"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos Mangabeira - PB"
       },
       "location": {
