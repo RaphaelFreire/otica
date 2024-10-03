@@ -52,16 +52,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos Tubarão - SC"
-      },
-      "location": {
-        "city": "Tubarão - SC",
-        "state": "Santa Catarina"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=554899771002"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos Panambi - RS"
       },
       "location": {
@@ -69,16 +59,6 @@
         "state": "Rio Grande do Sul"
       },
       "whatsapp": "https://api.whatsapp.com/send?phone=5555992301212"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos Tubarão Oficinas - SC"
-      },
-      "location": {
-        "city": "Tubarão Oficinas - SC",
-        "state": "Santa Catarina"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=554892088787"
     },
     {
       "store": {
