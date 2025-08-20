@@ -12,26 +12,6 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de Tabatinga"
-      },
-      "location": {
-        "city": "Tabatinga - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5516996001026"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos de Potirendaba"
-      },
-      "location": {
-        "city": "Potirendaba - SP",
-        "state": "São Paulo"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5517996509700"
-    },
-    {
-      "store": {
         "name": "Mercadão dos Óculos de Olímpia"
       },
       "location": {
@@ -42,23 +22,13 @@
     },
     {
       "store": {
-        "name": "Mercadão dos Óculos de Taquaritinga"
+        "name": "Mercadão dos Óculos de Potirendaba"
       },
       "location": {
-        "city": "Taquaritinga - SP",
+        "city": "Potirendaba - SP",
         "state": "São Paulo"
       },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5516996139668"
-    },
-    {
-      "store": {
-        "name": "Mercadão dos Óculos Panambi - RS"
-      },
-      "location": {
-        "city": "Panambi - RS",
-        "state": "Rio Grande do Sul"
-      },
-      "whatsapp": "https://api.whatsapp.com/send?phone=5555992301212"
+      "whatsapp": "https://api.whatsapp.com/send?phone=5517996509700"
     },
     {
       "store": {
